@@ -4,6 +4,6 @@
 
 ### Used HTML for the user interface, MySQL for the database server, and Java, Javascript, and JDBC for connectivity between the user interface and database server. 
 
-#### Worked with MySQL server and AWS EC2.
+### Worked with MySQL server and AWS EC2.
 
-## URL: http://ec2-18-191-251-104.us-east-2.compute.amazonaws.com:8080/cs336Project/
+### URL: http://ec2-18-191-251-104.us-east-2.compute.amazonaws.com:8080/cs336Project/
